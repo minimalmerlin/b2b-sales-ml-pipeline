@@ -342,7 +342,7 @@ NN (Struktur + Text):   ROC-AUC 0.87 ✓✓
 
 ## Autor
 
-Erstellt als Demonstration der Kombination aus B2B Sales Domain-Wissen und Data Science Best Practices.
+Erstellt als Demonstration der Kombination aus B2B Sales Domain-Wissen und Data Science Best Practices von Merlin Mechler
 
 ## Lizenz
 
