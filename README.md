@@ -1,5 +1,10 @@
 # B2B Sales ML Pipeline
 
+![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![ML](https://img.shields.io/badge/ML-scikit--learn-orange.svg)
+![Status](https://img.shields.io/badge/status-production--ready-brightgreen.svg)
+
 Ein produktionsreifes End-to-End Machine Learning System für B2B Sales & Customer Success Teams.
 
 ## Projektübersicht
